@@ -1,0 +1,29 @@
+| "First name"    | "Last name" | "Email address"                           | Case | Info                     |
+|-----------------+-------------+-------------------------------------------+------+--------------------------|
+| ALEYNA          | ACAY        | aleyna.acay@std.yeditepe.edu.tr           |    1 | case_10,A=.1,L=2         |
+| İREM            | GÜRSOY      | irem.gursoy@std.yeditepe.edu.tr           |    2 | case_10,A=.15,L=1.5      |
+| KAAN            | KARA        | kaan.kara13@std.yeditepe.edu.tr           |    3 | case_11,A=.1,L=2         |
+| ORÇUN           | KARABAŞ     | orcun.karabas@std.yeditepe.edu.tr         |    4 | case_11,A=.15,L=2.5      |
+| CAN             | MCKAYRA     | can.mckayra@std.yeditepe.edu.tr           |    5 | case_12,A=.1,B=.2,L=2    |
+| YİĞİT           | OSMA        | yigit.osma@std.yeditepe.edu.tr            |    6 | case_12,A=.2,B=.1,L=3    |
+| "GÜLŞEN DOĞA"   | KARAGÖL     | gulsendoga.karagol@std.yeditepe.edu.tr    |    7 | case_13+,A=.3,om=1.5     |
+| MELTEM          | ŞALVARLI    | meltem.salvarli@std.yeditepe.edu.tr       |    8 | case_13-,A=.2,om=1       |
+| ŞEYMA           | SEZEN       | seyma.sezen@std.yeditepe.edu.tr           |    9 | case_14y,A=.1,L=2,h=3    |
+| MERİÇ           | SADIÇ       | meric.sadic@std.yeditepe.edu.tr           |   10 | case_14x,A=.15,L=3,h=3   |
+| EFE             | GÜLLERCİ    | efe.gullerci@std.yeditepe.edu.tr          |   11 | case_9x,e=-.1            |
+| "ŞİRİN GİZEM"   | ACER        | siringizem.acer@std.yeditepe.edu.tr       |   12 | case_9y,e=.1             |
+| "FATMA SILA"    | AYYILDIZ    | fatmasila.ayyildiz@std.yeditepe.edu.tr    |   13 | case_7y,R=6              |
+| CANSU           | BÜYÜKÖZTÜRK | cansu.buyukozturk@std.yeditepe.edu.tr     |   14 | case_7x,R=8              |
+| ANDRE           | DEĞİRMENCİ  | andre.degirmenci@std.yeditepe.edu.tr      |   15 | case_6,th=pi/6           |
+| "BEYZA SUDE"    | GÖZÜTOK     | beyzasude.gozutok@std.yeditepe.edu.tr     |   16 | case_6,th=-pi/8          |
+| "TAHİR CENKER"  | GÜLER       | tahircenker.guler@std.yeditepe.edu.tr     |      |                          |
+| "AYÇA NİL"      | GÜLLÜ       | aycanil.gullu@std.yeditepe.edu.tr         |   17 | case_5,a.8,b.2,c-.2,d1.1 |
+| NEHİR           | KARABUL     | nehir.karabul@std.yeditepe.edu.tr         |   18 | case_5,a.8,b.2,c.2,d1.1  |
+| "AHMET BARKIN"  | KILIÇOĞLU   | ahmetbarkin.kilicoglu@std.yeditepe.edu.tr |   19 | case_5,a1.2,b-.2,c.2,d.9 |
+| "KUBİLAY BERK"  | ÖZDEMİR     | kubilayberk.ozdemir@std.yeditepe.edu.tr   |   20 | case_5,a1.2,b.2,c.2,d.9  |
+| "YİĞİT ALPEREN" | SENDİNÇ     | yigitalperen.sendinc@std.yeditepe.edu.tr  |   21 | case_4x,k=.2             |
+| TUĞÇE           | SEZGİN      | tugce.sezgin@std.yeditepe.edu.tr          |   22 | case_4y,k=.2             |
+| "ZEHRA BETÜL"   | ÜSTÜNDAĞ    | zehrabetul.ustundag@std.yeditepe.edu.tr   |   23 | case_3,l=1.2             |
+| DİLARA          | UZUNBOY     | dilara.uzunboy@std.yeditepe.edu.tr        |   24 | case_11,A=.1,L=4         |
+| "ELİF ÇİĞDEM"   | YALÇINKAYA  | elifcigdem.yalcinkaya@std.yeditepe.edu.tr |   25 | case_13-,A=.1,om=1.5     |
+

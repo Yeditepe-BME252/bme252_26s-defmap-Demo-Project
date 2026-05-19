@@ -1,0 +1,50 @@
+#+TITLE: BME 252 Term Project
+#+AUTHOR: Fethi Okyar
+#+SUBTITLE: 2026 Spring
+#+STARTUP: overview
+#+REVEAL_THEME: simple
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t", width:1920, height:1080, navigationMode:"linear", transition:"none"
+#+REVEAL_TITLE_SLIDE: <h1>%t</h1> <h2>%s</h2> <h5>%a</h5>
+#+OPTIONS: timestamp:nil toc:1 num:nil reveal_global_footer:nil
+#+REVEAL_EXTRA_CSS: ../style.css
+#+LATEX_HEADER: \usepackage{amsmath}
+
+#+CAPTION: Image Assignment. For each line below, there exists a number. Click on it to view the corresponding png image that shows the undeformed and deformed configurations at a point on the surface of a deforming body. Read the number (e.g. 26) in your line, and use that image (e.g. 26.png) to solve for the steps described above.
+#+NAME: tbl:assignments
+| First name    | Last name   | Case |
+|---------------+-------------+------|
+| ALEYNA        | ACAY        | [[./images/1.png][1]]    |
+| İREM          | GÜRSOY      | [[./images/2.png][2]]    |
+| KAAN          | KARA        | [[./images/3.png][3]]    |
+| ORÇUN         | KARABAŞ     | [[./images/4.png][4]]    |
+| CAN           | MCKAYRA     | [[./images/5.png][5]]    |
+| YİĞİT         | OSMA        | [[./images/6.png][6]]    |
+| GÜLŞEN DOĞA   | KARAGÖL     | [[./images/7.png][7]]    |
+| MELTEM        | ŞALVARLI    | [[./images/8.png][8]]    |
+| ŞEYMA         | SEZEN       | [[./images/9.png][9]]    |
+| MERİÇ         | SADIÇ       | [[./images/10.png][10]]   |
+| EFE           | GÜLLERCİ    | [[./images/11.png][11]]   |
+| ŞİRİN GİZEM   | ACER        | [[./images/12.png][12]]   |
+| FATMA SILA    | AYYILDIZ    | [[./images/13.png][13]]   |
+| CANSU         | BÜYÜKÖZTÜRK | [[./images/14.png][14]]   |
+| ANDRE         | DEĞİRMENCİ  | [[./images/15.png][15]]   |
+| BEYZA SUDE    | GÖZÜTOK     | [[./images/16.png][16]]   |
+| AYÇA NİL      | GÜLLÜ       | [[./images/17.png][17]]   |
+| NEHİR         | KARABUL     | [[./images/18.png][18]]   |
+| AHMET BARKIN  | KILIÇOĞLU   | [[./images/19.png][19]]   |
+| KUBİLAY BERK  | ÖZDEMİR     | [[./images/20.png][20]]   |
+| YİĞİT ALPEREN | SENDİNÇ     | [[./images/21.png][21]]   |
+| TUĞÇE         | SEZGİN      | [[./images/22.png][22]]   |
+| ZEHRA BETÜL   | ÜSTÜNDAĞ    | [[./images/23.png][23]]   |
+| DİLARA        | UZUNBOY     | [[./images/24.png][24]]   |
+| ELİF ÇİĞDEM   | YALÇINKAYA  | [[./images/25.png][25]]   |
+
+* Identify the mapping function
+- *Study* several mapping functions are provided in the [[https://yeditepe-bme252.github.io/2026-Spring/Ch5-strain.html#mappings][course notes]]. Your responsibility is to identify which mapping function may be used to replicate the deformation image assigned to you ("your image").
+- *Look* into the provided [[Library.py]], a Python library, with a utility function that plots the deformed grids (~plotgrid()~) and an empty template function (~case_26()~) to write out the mapping function.
+- *Test* different mapping functions by changing their parameters to *exactly* match the deformation in your image.
+- *Save* the output of ~plotgrid()~ which looks most similar to "your image" in PNG format.
+- *Save* the mapping function you identified in the previous step, using the number corresponding to your image number (e.g. 5.png -> ~case_5()~) in the file  [[Library.py]].
+* git add .
+* git commit -m "your message"
+* git push
