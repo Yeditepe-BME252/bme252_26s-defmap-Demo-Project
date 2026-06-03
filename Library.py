@@ -52,7 +52,7 @@ def plotgrid(map_func, xlim=(-3, 3), ylim=(-3, 3), grid_size=21):
 
 ## Define a deformation functions
 def case_26(x, y):
-    return x + 0.02, y + 0.04
+    return x, y
 
 ## how to run
 ## start a python console
